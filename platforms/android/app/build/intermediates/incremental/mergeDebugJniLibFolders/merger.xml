@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/user/Nerdshit/NativeScriptProjekte/my-blank-js/platforms/android/app/src/main/jniLibs"/><source path="/home/user/Nerdshit/NativeScriptProjekte/my-blank-js/platforms/android/app/libs/jni"/></dataSet><dataSet config="debug"><source path="/home/user/Nerdshit/NativeScriptProjekte/my-blank-js/platforms/android/app/src/debug/jniLibs"/></dataSet></merger>

@@ -1,0 +1,1 @@
+/home/user/Nerdshit/NativeScriptProjekte/my-blank-js/platforms/android/app/src/main/assets/metadata
