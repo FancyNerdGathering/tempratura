@@ -8,7 +8,7 @@ logic, and to set up your page’s data binding.
 
 
 var page;
-var email;
+var datetime;
 var frameModule = require("ui/frame");
 
 //This function binds the viewmodel(this file .js) to the view(xml)
