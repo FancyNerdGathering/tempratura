@@ -11,7 +11,7 @@ var page;
 var email;
 var frameModule = require("ui/frame");
 
-
+//This function binds the viewmodel(this file .js) to the view(xml)
 exports.loaded = function(args) {
     page = args.object;
 };
